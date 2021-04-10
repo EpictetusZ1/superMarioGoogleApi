@@ -1,0 +1,17 @@
+Bright Green = rgb(81, 210, 74)
+Dark Green = rgb(60, 138, 52)
+Water = rgb(59, 96, 246)
+Roads = rgb(251, 234, 187)
+buildings = rgb(255, 152, 107)
+
+
+# -- Flags --
+red = rgb(219, 43, 15)
+green = rgb(82, 179, 60)
+blue = rgb(70, 153, 216)
+
+
+# Map ID
+
+97067c0a754c091d
+
