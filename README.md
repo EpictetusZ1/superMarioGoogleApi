@@ -5,7 +5,7 @@
 
 This particular map defaults to a town in Ontario, Canada and focuses on some notable locations within it.
 
-![GoogleMap](superMarioGoogleApi/SuperMarioMap.png?)
+![Google Map](superMarioMap.png)
 
 
 
